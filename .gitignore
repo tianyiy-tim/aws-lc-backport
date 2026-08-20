@@ -1,8 +1,9 @@
 # Transient patch inputs generated for the backport CLI (git diff > fix.patch)
 *.patch
 
-# Backport CLI run-state written into a target checkout
+# Backport CLI run-state and cherry-pick worktrees, written into a target checkout
 .backport-runs/
+.backport-worktrees/
 
 # Python bytecode
 __pycache__/
