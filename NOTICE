@@ -1,0 +1,11 @@
+Everything under util/backport/ is my work from aws/aws-lc, copied here at the same
+path it lives at upstream. It carries aws-lc's copyright headers and its
+Apache-2.0 OR ISC license, and LICENSE is reproduced from that repository unchanged.
+
+  https://github.com/aws/aws-lc/tree/main/util/backport
+
+The documentation in docs/, this repository's README files, and the synthetic test
+fixture under fixture/ are mine, and are covered by the same license.
+
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+SPDX-License-Identifier: Apache-2.0 OR ISC
